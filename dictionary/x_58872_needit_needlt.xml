@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c740dd64c35382102a98fdec05013174" extends="task" label="Needlt" max_length="40" name="x_58872_needit_needlt" type="collection"/>
+</database>
